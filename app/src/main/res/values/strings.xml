@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ReyclerViewLoadMorebtn</string>
+    <string name="title_here">Title here</string>
+    <string name="cupcake">Android Cupcake</string>
+    <string name="android_donut">Android Donut</string>
+    <string name="eclair">Eclair</string>
+    <string name="froyo">Froyo</string>
+    <string name="gingerbread">Gingerbread</string>
+    <string name="honeycomb">Honeycomb</string>
+    <string name="ice_cream">Ice Cream</string>
+    <string name="jellybean">jelly Bean</string>
+    <string name="kitkat">Kitkat</string>
+    <string name="lolipop">Lollipop</string>
+    <string name="marshmellow">MarshMellow</string>
+    <string name="nought">Nought</string>
+    <string name="oreo">Oreo</string>
+    <string name="pie">Pie</string>
+</resources>
